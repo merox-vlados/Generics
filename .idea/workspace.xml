@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e38e265d-aa75-4092-95a4-2693a449b539" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Basket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Orange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="e38e265d-aa75-4092-95a4-2693a449b539" name="Changes" comment="commit 18.04.2023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BoxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BoxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Basket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Orange.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -64,7 +61,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.BoxTest">
+  <component name="RunManager" selected="Gradle.BoxTest.testBox">
     <configuration name="BoxTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -113,8 +110,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.BoxTest" />
         <item itemvalue="Gradle.BoxTest.testBox" />
+        <item itemvalue="Gradle.BoxTest" />
       </list>
     </recent_temporary>
   </component>
@@ -128,16 +125,5 @@
       <updated>1681821828448</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>

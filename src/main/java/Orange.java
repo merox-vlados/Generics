@@ -1,8 +1,6 @@
 public class Orange extends Fruit{
-
-    double orangeWeight = 1.5;
-
-    public double getWeight() {
-        return orangeWeight;
+    @Override
+    float getWeight() {
+        return 1.5f;
     }
 }
